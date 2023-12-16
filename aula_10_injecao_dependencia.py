@@ -1,3 +1,10 @@
+"""
+Este metodo de injencao de dependencia tem como objetivo uma classe depender de outra injetada a ela
+sendo que como cada classe tem sua funcao propria, ao juntar-se formam uma informacao completa
+
+"""
+
+
 class Casa(object):
 
     def __init__(self):
